@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @drcopyman
-- 👀 I’m interested in react, react native, ts, go, lua, c# (really? 😏😏)
+- 👀 I’m interested in react, TypeScript, Go, Lua, C#
 - 🌱 I’m currently learning flutter
 - 💼 I'm working as a Full - Stack Deverloper.

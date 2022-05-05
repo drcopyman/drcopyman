@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @drcopyman
-- 👀 I’m interested in TypeScript, Go, Lua, C#, PHP
-- 🌱 I’m currently learning Blockchain 
-- 💼 I'm working as a Full - Stack Deverloper.
+- 👀 I’m interested in TypeScript, Go, Lua, C#, PHP, Solidity, Clojure
+- 🌱 I’m currently learning DevOps 
+- 💼 I'm working as a Full - Stack and Blockchain Deverloper.
